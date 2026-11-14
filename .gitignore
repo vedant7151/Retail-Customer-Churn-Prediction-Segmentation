@@ -1,0 +1,7 @@
+*.md
+*.txt
+!README.md
+_backup_pre_fix/
+output/
+*.xlsx
+__pycache__/
